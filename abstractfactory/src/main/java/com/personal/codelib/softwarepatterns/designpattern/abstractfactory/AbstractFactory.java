@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.personal.codelib.softwarepatterns.designpattern.abstractfactory;
+package main.java.com.personal.codelib.softwarepatterns.designpattern.abstractfactory;
 
 /**
  * 

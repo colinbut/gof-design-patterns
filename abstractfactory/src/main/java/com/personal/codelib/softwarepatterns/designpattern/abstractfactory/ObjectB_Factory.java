@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.personal.codelib.softwarepatterns.designpattern.abstractfactory;
+package main.java.com.personal.codelib.softwarepatterns.designpattern.abstractfactory;
 
 /**
  * @author Administrator
@@ -18,7 +18,7 @@ public class ObjectB_Factory implements AbstractFactory{
 	
 	/*
 	 * (non-Javadoc)
-	 * @see com.personal.codelib.softwarepatterns.designpattern.abstractfactory.AbstractFactory#createObject()
+	 * @see main.java.com.personal.codelib.softwarepatterns.designpattern.abstractfactory.AbstractFactory#createObject()
 	 */
 	@Override
 	public IObject createObject() {

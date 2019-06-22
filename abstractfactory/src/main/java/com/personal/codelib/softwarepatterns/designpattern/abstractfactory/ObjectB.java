@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.personal.codelib.softwarepatterns.designpattern.abstractfactory;
+package main.java.com.personal.codelib.softwarepatterns.designpattern.abstractfactory;
 
 /**
  * @author Administrator
@@ -18,7 +18,7 @@ public class ObjectB implements IObject{
 	
 	/*
 	 * (non-Javadoc)
-	 * @see com.personal.codelib.softwarepatterns.designpattern.abstractfactory.IObject#doSomething()
+	 * @see main.java.com.personal.codelib.softwarepatterns.designpattern.abstractfactory.IObject#doSomething()
 	 */
 	@Override
 	public void doSomething() {
