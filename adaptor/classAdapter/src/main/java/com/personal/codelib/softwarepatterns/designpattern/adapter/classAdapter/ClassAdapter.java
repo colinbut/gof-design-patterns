@@ -1,7 +1,9 @@
-/**
- * 
+/*
+ * |-------------------------------------------------
+ * | Copyright © 2012 Colin But. All rights reserved.
+ * |-------------------------------------------------
  */
-package com.personal.codelib.softwarepatterns.designpattern.adaptor.classAdapter;
+package main.java.com.personal.codelib.softwarepatterns.designpattern.adapter.classAdapter;
 
 /**
  * @author Administrator
