@@ -1,7 +1,9 @@
-/**
- * 
+/*
+ * |-------------------------------------------------
+ * | Copyright © 2012 Colin But. All rights reserved.
+ * |-------------------------------------------------
  */
-package com.personal.codelib.softwarepatterns.designpattern.decorator;
+package main.java.com.personal.codelib.softwarepatterns.designpattern.decorator;
 
 /**
  * Representation of a component
