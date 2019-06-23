@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.personal.codelib.softwarepatterns.designpattern.chainofresponsibility;
+package main.java.com.personal.codelib.softwarepatterns.designpattern.chainofresponsibility;
 
 /**
  * The request

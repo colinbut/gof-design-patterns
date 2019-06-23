@@ -1,18 +1,18 @@
 /**
  * 
  */
-package com.personal.codelib.softwarepatterns.designpattern.chainofresponsibility;
+package main.java.com.personal.codelib.softwarepatterns.designpattern.chainofresponsibility;
 
 /**
  * @author Administrator
  *
  */
-public class ConcreteHandler1 extends Handler {
+public class ConcreteHandler2 extends Handler {
 
 	/**
 	 * Constructor
 	 */
-	public ConcreteHandler1(){
+	public ConcreteHandler2(){
 		//does nothing
 	}
 	
@@ -23,8 +23,8 @@ public class ConcreteHandler1 extends Handler {
 	@Override
 	public void handle(Request req) {
 		
-		if(req.getX() > 0 && req.getX() < 10){
-			System.out.println("ConcreteHandler1 handled Request: " + req.getText() + req.getX());
+		if(req.getX() >= 10 && req.getX() <= 20){
+			System.out.println("ConcreteHandler2 handled Request: " + req.getText() + req.getX());
 		}
 		else if(successor != null){
 			successor.handle(req);
