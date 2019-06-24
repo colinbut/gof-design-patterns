@@ -1,4 +1,9 @@
-package com.personal.codelib.softwarepatterns.designpattern.factorymethod.basic;
+/*
+ * |-------------------------------------------------
+ * | Copyright © 2012 Colin But. All rights reserved.
+ * |-------------------------------------------------
+ */
+package main.java.com.personal.codelib.softwarepatterns.designpattern.factory.basic;
 
 public class Factory {
 	
