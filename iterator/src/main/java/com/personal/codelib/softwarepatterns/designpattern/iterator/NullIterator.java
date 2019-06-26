@@ -1,7 +1,9 @@
-/**
- * 
+/*
+ * |-------------------------------------------------
+ * | Copyright © 2012 Colin But. All rights reserved.
+ * |-------------------------------------------------
  */
-package com.personal.codelib.softwarepatterns.designpattern.iterator;
+package main.java.com.personal.codelib.softwarepatterns.designpattern.iterator;
 
 /**
  * An iterator that does not iterator.
