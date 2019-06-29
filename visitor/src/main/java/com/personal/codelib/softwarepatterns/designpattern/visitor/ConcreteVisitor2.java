@@ -1,18 +1,20 @@
-/**
- * 
+/*
+ * |-------------------------------------------------
+ * | Copyright © 2012 Colin But. All rights reserved.
+ * |-------------------------------------------------
  */
-package com.personal.codelib.softwarepatterns.designpattern.visitor;
+package main.java.com.personal.codelib.softwarepatterns.designpattern.visitor;
 
 /**
  * @author Administrator
  *
  */
-public class ConcreteVisitor1 extends Visitor{
+public class ConcreteVisitor2 extends Visitor{
 
 	/**
 	 * Constructor
 	 */
-	public ConcreteVisitor1(){
+	public ConcreteVisitor2(){
 		//does nothing
 	}
 	
@@ -22,8 +24,7 @@ public class ConcreteVisitor1 extends Visitor{
 	 */
 	@Override
 	public void visitConcreteElementA(ConcreteElementA A) {
-		// TODO Auto-generated method stub
-		
+		//does nothing
 	}
 	
 	/*
@@ -32,8 +33,7 @@ public class ConcreteVisitor1 extends Visitor{
 	 */
 	@Override
 	public void visitConcreteElementB(ConcreteElementB B) {
-		// TODO Auto-generated method stub
-		
+		//does nothing
 	}
 
 }
